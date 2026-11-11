@@ -165,7 +165,7 @@
   - [O] Better: wait for a retest after the gap.
 - **Signal: HOLD / MONITOR.** Closest attention tomorrow.
 
-**CoreWeave (CRWV): $48.73 close (pre-earnings), reportedly about $49.6–51.5 after hours [E, sources conflict]**
+**CoreWeave (CRWV): $48.73 close (pre-earnings); Nov 10 after-hours last $52.58 (+7.9%) [F, Massive extended-hours data, last print ~19:59 ET]**
 - **Past 24H News:** [F] Q3 2026 results, Nov 10 after the close:
   - Revenue **$3.66B (+168% YoY)** vs. $3.55B expected.
   - **Backlog $132.5B**, up from $104B in June.
@@ -306,7 +306,7 @@
 ### ⚠️ Key Watchlist Actions for Today
 
 - **Closest attention:**
-  - **CRWV** at the open: does the post-earnings gap hold above $51?
+  - **CRWV** at the open: it finished after-hours at $52.58, above the $51 trigger. Does the gap hold above $51 through the first hour?
   - **NBIS**, which reports **tomorrow (Nov 12) before the open**.
   - Both will set the tone for the AI-infrastructure group ahead of **Nvidia on Nov 17**.
 - **Most attractive entry setup:** **OUST** on a pullback to $34.80–36.00 (R/R about 3:1). For immediate action, **PL** is already near its zone.
