@@ -77,14 +77,37 @@ All figures [Confirmed, Massive]. "Week" is vs. the Nov 6 close.
 
 ### 3. Earnings, filings and material news (Friday after the close through Saturday)
 
-*Interim version: from the Massive news feed only. An EDGAR filings check is still running and this section will be updated.*
+Filings were checked on SEC EDGAR for all 13 names (plus NVDA) at about 21:50 UTC on Nov 14. **No 8-K, S-3, 424B (ATM/offering) or 10-Q was filed for any of the 13 tickers on Nov 13–14, and none reported earnings.**
 
-- **RKLB [Confirmed, company release]:** Rocket Lab completed its **100th Electron launch** on Nov 14, deploying the YAMATSUMI-II satellite for iQPS. The company says Electron reached 100 launches faster than any other commercially developed rocket ([GlobeNewswire](https://www.globenewswire.com/news-release/2026/11/14/3403041/0/en/rocket-lab-hits-100-electron-launches-fastest-commercial-rocket-to-reach-the-milestone.html)).
-- **CRWV [Reported]:** Friday's 6.1% drop is attributed to AI-cloud selling and reported talks for a roughly **$4B loan** ([Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-coreweave-falls-over-6-on-ai-cloud-selling-and-reported-usd4-billion-loan-talks/)). No company announcement found.
-- **Anthropic IPO [Reported]:** price range of $70–78 per share, raising about $64B, with a concurrent private placement in which Nvidia, Alphabet, Microsoft and **Micron** are named as buyers ([Motley Fool](https://www.fool.com/investing/2026/11/14/nvidia-alphabet-microsoft-and-micron-are-buying-anthropic-ipo/)). I have not read the prospectus.
-- **MU, MRVL, NBIS, CRDO:** only opinion and comparison articles since Friday's close. **No material news.**
-- **BKSY, RDW, ASTS, VELO, OUST, KRMN, FLY:** **No material news** in the Massive feed since Friday 14:00 UTC.
-- **Earnings:** none of the 13 names reported on Friday or over the weekend.
+**RKLB**
+- **100th Electron launch, successful** [Confirmed, company release]. "The Mountain God Rises" lifted off Saturday Nov 14 at 12:30 am EST and deployed iQPS's YAMATSUMI-II satellite. It was the 11th iQPS mission. The company says the next 100 Electron launches are already booked ([GlobeNewswire](https://www.globenewswire.com/news-release/2026/11/14/3403041/0/en/rocket-lab-hits-100-electron-launches-fastest-commercial-rocket-to-reach-the-milestone.html)). No SEC filing.
+
+**NBIS**
+- **Form 4 [Confirmed], accepted Fri 16:48 ET:** Chief Revenue Officer Marc Boroditsky exercised 7,000 options at $40 and sold the 7,000 shares at an average of $147.97 on Nov 11, under a 10b5-1 plan adopted in June ([Form 4](https://www.sec.gov/Archives/edgar/data/1513845/000151384526000149/xslF345X06/form4.xml)). Small and pre-planned, though it was sold the day before the Q3 report.
+- No other new item. Friday's analyst cuts and the Microsoft vendor report are in Friday's briefing.
+
+**CRWV**
+- **Form 4 [Confirmed], accepted Fri 16:41 ET:** director Glenn Hutchins had 1,440 RSUs vest on Nov 10. No sale ([Form 4](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000466/xslF345X06/form4.xml)). Routine.
+- **Loan talks [Reported]:** Friday's drop is attributed to AI-cloud selling and reported talks for a roughly $4B loan ([Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-coreweave-falls-over-6-on-ai-cloud-selling-and-reported-usd4-billion-loan-talks/)). No company announcement.
+- **Barclays [Reported, date unclear]:** target cut to $85 from $105, Equal Weight. The article is dated Nov 13 but seems to describe Thursday ([Defense World](https://www.defenseworld.net/2026/11/13/coreweave-nasdaqcrwv-stock-price-down-6-9-on-analyst-downgrade.html)).
+
+**MRVL**
+- **No material news.** **Earnings date is now confirmed: Tue Dec 1**, call at 1:30 pm PT [Confirmed, company IR] ([release](https://investor.marvell.com/news-events/press-releases/detail/1041/marvell-technology-inc-announces-conference-call-to-review-third-quarter-of-fiscal-year-2027-financial-results)). This settles the Dec 1 vs. Nov 26 conflict in this morning's brief.
+
+**CRDO**
+- **No material news.** Earnings **Tue Dec 1 after the close**, the same afternoon as MRVL [Reported, company release via StockTitan] ([link](https://www.stocktitan.net/news/CRDO/credo-schedules-second-quarter-fiscal-year-2027-financial-results-vchn8hvl39pc.html)).
+
+**MU**
+- **No material news** and no filing after Nov 12. The next earnings date is **not announced**; one calendar lists Dec 23, unconfirmed [Est.] ([Wall Street Horizon](https://www.wallstreethorizon.com/micron-earnings-calendar)). This morning's brief used ~Dec 16 [Est.]; treat both as guesses.
+- [Reported] Micron is named among the buyers in a private placement alongside the Anthropic IPO ([Motley Fool](https://www.fool.com/investing/2026/11/14/nvidia-alphabet-microsoft-and-micron-are-buying-anthropic-ipo/)). I have not read the prospectus.
+
+**BKSY, RDW, ASTS, VELO, OUST, KRMN, FLY:** **No material news** and no SEC filing on Nov 13–14.
+
+**Market-wide**
+- **NVIDIA CEO change is confirmed** [Confirmed, 8-K filed Nov 12]. The board accepted Jensen Huang's resignation as President, CEO and director on Nov 11. CFO Colette Kress is interim CEO and remains CFO ([8-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm)). This morning's brief had this as unverified.
+- [Reported] The board says it is still selecting a search firm; the FT reported an approach to Arm's CEO ([CNBC](https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html)).
+- **Anthropic IPO [Reported]:** range $70–78 on 825M shares, up to about $64.4B; pricing expected Wed Nov 18 evening, first trade Thu Nov 19 as "ANT" ([CNBC](https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html)).
+- I found no Saturday headline that explains Friday's after-hours drift.
 
 ---
 
@@ -149,10 +172,12 @@ Levels and signals are opinion. Entry zones, stops and targets are carried over 
 
 **Key events**
 
-- **Mon Nov 16:** no watchlist earnings found. Macro calendar and Fed speakers: not yet verified in this interim version.
-- **Tue Nov 17, after the close: NVIDIA Q3 FY27 results** [Confirmed date per Friday's report]. Also October retail sales at 8:30 am ET [Reported].
-- **Wed Nov 18:** FOMC minutes at 2:00 pm ET [Reported]; Anthropic IPO pricing [Est.].
-- **Thu Nov 19:** Anthropic first trade [Est.].
+All times ET (Bucharest = ET + 7h). Calendar items are [Reported] unless marked.
+- **Mon Nov 16:** Empire State Manufacturing, 8:30 am (prior 25.5). Fed speakers per a single source (Finviz): Barr 5:00 am, Williams 9:05 am, **Chair Warsh 12:00 pm**, Barkin 6:10 pm. No watchlist or AI/space/semis earnings.
+- **Tue Nov 17:** October retail sales, 8:30 am (consensus 0.0% m/m, ex-autos +0.4%); industrial production, 9:15 am. Fed speakers (same single source): Musalem, Waller, Hammack, Williams. Home Depot before the open. **NVIDIA Q3 FY27 after the close**: consensus revenue about $109B against a $108B guide [Est.]; first report under the interim CEO.
+- **Wed Nov 18:** FOMC minutes, 2:00 pm. Anthropic IPO pricing in the evening.
+- **Thu Nov 19:** Anthropic first trade on Nasdaq ("ANT").
+- **Further out:** MRVL and CRDO earnings, both Dec 1 after the close. FOMC Dec 8–9. MU earnings date not announced.
 
 **Stance (opinion):** unchanged from this morning: wait and be selective, no new size in AI semis or neoclouds before NVIDIA. Friday's after-hours drift means several names may open inside their entry zones on Monday. Treat that as the start of the test, not as the entry. The setups with the cleanest risk definition are still OUST and KRMN; the one that most needs patience is MU.
 
